@@ -1,0 +1,8 @@
+contract-context.js => all the relevant addresses
+
+bnb.js => using weth1 - 0x4E72F0A03585E0D80f71622d7821147Dd5461bB8
+comp.js => using tokenA - 0xa4274347ad6985D524A7cF6B8Eb6F878A210d05d 
+dai.js =>   using tokenB - 0x7D01cEeA33Aca79114274D077eeD4Ba3330B33F6
+usdc.js =>  using tokenC - 0x12E840d8fE5D75D7B52A37c7fe34287FFc29F28C   
+usdt.js => using tokenD - 0x86A57d99bbebdD1199B62888869835f63ff903d4
+wethjs => using WETH  - 0x3BE65070357ac82D5564ae5860d6094C84F10De1 (on Rinkeby!)
